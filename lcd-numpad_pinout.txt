@@ -1,0 +1,10 @@
+lcd-numpad Arduino Uno R3 pinout
+Numpad
+R1 -> 10
+R2 -> 11
+R3 -> 12
+R4 -> 13
+C1 -> 6
+C2 -> 7
+C3 -> 8
+C4 -> 9
